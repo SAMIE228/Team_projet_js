@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #A9D7E9;
+}
+.champdesaisi{
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    background-color: aliceblue;
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    
+}
+input{
+    width: 500px;
+    height: 35px;
+}
+button{
+    width: 130px;
+    height: 41px;
+    background-color:#308fddd8;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+}
+.reponse{
+    align-items: center;
+}
+.afaire{
+    padding-left: 0px;
+}
+.reponse li{
+    background-color: rgb(244, 245, 247);
+    list-style-type: none;
+    min-height: 30px;
+    border: 1px solid black;
+    margin: 1px;
+    padding: 10px;
+    color: black;
+   
+    
+}
